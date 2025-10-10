@@ -1,4 +1,4 @@
-totals_mark=int(input("enter the total mark:"))
+total_mark=int(input("enter the total mark:"))
 appititude_mark=int(input("enter the appititude marks:"))
 gd_mark=int(input("enter the gd mark:"))
 if 390<= total_mark <=400:
