@@ -1,0 +1,10 @@
+s={1,11,22,33,44,"viji",1,"True"}
+print("Original set is:",s)
+s.add(55)
+print("Enter the add number is:",s)
+s.update([10,77])
+print("Enter the update value:",s)
+s.discard(6)
+print("Enter the discard value is:",s)
+s.remove(1)
+print("Enter the remove value is:",s)
